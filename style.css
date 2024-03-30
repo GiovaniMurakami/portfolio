@@ -217,6 +217,7 @@ section {
 
 .btn-container {
   display: flex;
+  margin-bottom: 1rem;
   justify-content: center;
   gap: 1rem;
 }
@@ -333,6 +334,7 @@ h2 {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
+  margin-left: 15rem;
   margin-bottom: 2rem;
 }
 
@@ -375,12 +377,14 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  margin-top: 1rem;
+  width: 50%;
+  height: 50%;
 }
 
 .project-title {
   margin: 1rem;
+  margin: 2rem auto;
   color: black;
 }
 
