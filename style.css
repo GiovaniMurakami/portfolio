@@ -314,6 +314,10 @@ section {
   margin: auto 0;
 }
 
+.text-container {
+    margin: 0 20%;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
