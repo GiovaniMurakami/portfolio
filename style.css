@@ -324,20 +324,20 @@ h2 {
     margin: 0 20%;
 }
 
-/* EXPERIENCE SECTION */
+/* knowledge SECTION */
 
-#experience {
+#knowledge {
   position: relative;
 }
 
-.experience-sub-title {
+.knowledge-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
 
-.experience-details-container {
+.knowledge-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
